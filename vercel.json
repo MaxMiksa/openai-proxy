@@ -11,5 +11,16 @@
       "src": "/api/openai/(.*)",
       "dest": "/api/openai/[...path].js"
     }
+  ],
+  "headers": [
+    {
+      "source": "/api/openai/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/markdown"
+        }
+      ]
+    }
   ]
 }
