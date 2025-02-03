@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/api/openai/(.*)",
-      "dest": "api/openai/[...path].js"
+      "dest": "/api/openai/[...path].js"
     }
   ]
 }
