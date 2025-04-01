@@ -113,7 +113,7 @@ import textwrap
 
 url = "https://openai-proxy-delta-ten.vercel.app/api/openai/v1/chat/completions"
 headers = {
-    "Authorization": "***"  # ACCESS_PASSWORD
+    "Authorization":  # ACCESS_PASSWORD
 }
 
 data = {
