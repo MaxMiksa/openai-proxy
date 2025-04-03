@@ -1,5 +1,5 @@
 # OpenAI-Proxy-Easy&Secure
-A proxy service for OpenAI API designed by/for the Norstella Team at CMU Tepper, deployed on the Vercel platform.
+A anonymized proxy service for OpenAI API designed by/for the Norstella Team at CMU Tepper, deployed on the Vercel platform.
 
 卡内基梅隆大学 Tepper 商学院 Norstella 项目团队设计的 OpenAI API 匿名化代理服务，部署在 Vercel 平台上。
 
@@ -113,14 +113,14 @@ import textwrap
 
 url = "https://openai-proxy-delta-ten.vercel.app/api/openai/v1/chat/completions"
 headers = {
-    "Authorization":  # ACCESS_PASSWORD
+    "Authorization":  # Personalized ACCESS_PASSWORD
 }
 
 data = {
     "model": "o3-mini",  # Recommended model
     "messages": [{
         "role": "user", 
-        "content": "Hello, introduce yourself."
+        "content": "***" # Ask questions here
     }]
 }
 
