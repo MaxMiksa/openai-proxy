@@ -180,5 +180,5 @@ For any questions or suggestions, please contact the Norstella Project Team at T
 
 如有任何问题或建议，请联系卡内基梅隆大学 Tepper 商学院的 Norstella 项目团队。
 
-Max Kong: zheyuank@andrew.cmu.edu
+Max Kong: kongzheyuan@outlook.com | zheyuank@andrew.cmu.edu
 <p align="right"><a href="#index--目录">Back to Index | 返回目录 ⬆️</a></p>
