@@ -182,3 +182,8 @@ For any questions or suggestions, please contact the Norstella Project Team at T
 
 Max Kong: kongzheyuan@outlook.com | zheyuank@andrew.cmu.edu
 <p align="right"><a href="#index--目录">Back to Index | 返回目录 ⬆️</a></p>
+
+---
+## Repo Construction (Testing)
+![diagram](https://github.com/user-attachments/assets/d7dc1471-0856-481f-a91a-8160c2fce989)
+
